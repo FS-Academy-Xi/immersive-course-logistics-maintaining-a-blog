@@ -93,27 +93,6 @@ keep in mind that there are a lot of beginners out there that will benefit from
 you sharing what you're learning at every stage of your development as a
 developer.
 
-## Some Short and Happy Stories About Blogging
-
-While we mainly blog for our own personal growth and to give back to the
-community, ocassionally, blogging during coursework has led some surprising
-results!
-
-* One former student, Tracy, maintained a technical blog while she was a student
-and TA at Flatiron. When Tracy applied to be a developer at Rent the Runway, her
-future employers checked out her [awesome blog][] and liked it so much, they
-skipped over giving her a code challenge and advanced her to the final interview
-stage.
-
-* Another student, Steven, had their [blog post][] picked up by a Medium
-publication.
-
-* One student from 2017 received a job offer from an employer who found him
-_through his blog_.
-
-[awesome blog]: http://talum.github.io/
-[blog post]: https://codeburst.io/bottom-of-the-barrel-8ef73eff00f0
-
 ## Getting Started
 
 We recommend setting up your blog on an easy-to-use platform like
@@ -136,12 +115,6 @@ Soon, we'll deploy a schedule of blog posts. Every day three different students
 will have a completed blog post due that they will share with the class. You can
 expect to have one blog post due every two-and-a-half to three weeks (but don't
 hesitate to blog more frequently than that!)
-
-In the meantime, for inspiration, and to get excited about blogging, you can
-check out the [catalogue of Flatiron Student blog posts][] (you'll be prompted
-to log in with your GitHub account first).
-
-[catalogue of Flatiron Student blog posts]: https://flatiron-blogger.herokuapp.com/posts
 
 ## General Guidelines
 
